@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The taking of VVexford a letter from an eminent officer in the Army, under the command of the Lord Leiutenant of Ireland relateing the number put to the sword, and the manner of the taking the said town, with 71 peices of ordnance, 40 ships, 1300 prisoners, with store of arms, ammunition, mony, plate and jewells, and the advance of the Lord Leiutenants army to Rosse. And the engagement between Colonell Monroe and Colonell Oconelly, who was slain in the service.</title>
+            <author>R. L.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88778</idno>
+            <idno type="STC">Wing L56B</idno>
+            <idno type="STC">Thomason E575_35</idno>
+            <idno type="STC">ESTC R202824</idno>
+            <idno type="EEBO-CITATION">99862990</idno>
+            <idno type="PROQUEST">99862990</idno>
+            <idno type="VID">115170</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115170)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E575[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The taking of VVexford a letter from an eminent officer in the Army, under the command of the Lord Leiutenant of Ireland relateing the number put to the sword, and the manner of the taking the said town, with 71 peices of ordnance, 40 ships, 1300 prisoners, with store of arms, ammunition, mony, plate and jewells, and the advance of the Lord Leiutenants army to Rosse. And the engagement between Colonell Monroe and Colonell Oconelly, who was slain in the service.</title>
+                  <author>R. L.</author>
+                  <author>Lawrence, Richard, d. 1684, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R.L., i.e. Richard Lawrence?.</note>
+                  <note>Nelson and Seccombe assert that this may be the first issue of: "A perfect and more particular relation of the proceedings of the army in Ireland"; however this is merely speculative.</note>
+                  <note>Annotation on Thomason copy: "Octo: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1614-1688 --  Early works to 1800.</term>
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Wexford (Ireland) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115170:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <p>The taking of WEXFORD A LETTER From an eminent Officer in the Army, under the command of the Lord Leiu<g ref="char:EOLhyphen"/>tenant of IRELAND Relateing the number put to the Sword, and the manner of the taking the ſaid Town, with 71 peices of O<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dnance, 40 Ships, 1300 Priſoners, with ſtore of Arms, Ammunition, Mony, Plate and Iewells, and the advance of the Lord Leiutenants army to ROSSE.</p>
+            <p>And the engagement between Colonell MONROE and Colonell OCONELLY who was ſlain in the ſervice.</p>
+            <p>LONDON Printed For <hi>Francis Le<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115170:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <pb n="3" facs="tcp:115170:2"/>
+            <!-- PDF PAGE 7 -->
+            <head>The Taking of VVexford, a Letter from an emminent Officer in the Army under the com<g ref="char:EOLhyphen"/>mand of the Lord Leiutenant of IRELAND</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Doubt not but you have long ſince heard of the goodneſſe of God to our Army at <hi>Wexford,</hi> the ſecond of <hi>October</hi> we ſate downe with our Army before <hi>Wexford,</hi> and found from the Enemy a ſeeming Complement, Commiſsio<g ref="char:EOLhyphen"/>ners being oppointed to treat for ſurrender, but ſo ſoone as they had got reliefe of men from <hi>Ormond,</hi> they rejected all tearms, all this while we continued without attempting any thing, untill on the 9th. inſtant, we removed to the South ſide of the towne, the 11th. we framed our Batteries againſt the Caſtle, which ſtands
+<pb n="4" facs="tcp:115170:3"/>
+               <!-- PDF PAGE 8 -->
+cloſe by the Works, &amp; commands a great part of the Line; In this we made two good brea<g ref="char:EOLhyphen"/>ches; after which the Governour of the Caſtle and three more were ſent forth to treat; the Governour We dealt with a part, who was ſufficiently affrighted, that we eaſily perſwa<g ref="char:EOLhyphen"/>ded him to march out with his men, and let ours enter, the Commiſsioners for the towne had in the interim delivered their Propoſitions to my Lord Leiutenant; who found them ſo unreaſonable; that they were inſtantly by him rejected and only a briefe returne made, offe<g ref="char:EOLhyphen"/>ring ſecurity from the violence of the ſoldier to the lives and goods of all, they ingageing not to take up armes againſt the Parliament, but ſee our juſt God who will not let the wicked go unpuniſhed.</p>
+            <p>No ſooner had our men, that poſſeſt the Caſtle advanced our Standard, but inſtantly the Rogues generally deſerted the Line, and left our Souldiers at liberty to uſe their ſcaling lad<g ref="char:EOLhyphen"/>ders without giuing the leaſt oppoſition, nay, and before their Commiſsioners could returne into Towne to tell them of the offers of mercy the whole work was accompliſhed. In the
+<pb n="5" facs="tcp:115170:3"/>
+               <!-- PDF PAGE 8 -->
+towne were 1700. men at the leaſt, ſome ſay, three thouſand, of whom we have a generall belief that there eſcaped not above foure hun<g ref="char:EOLhyphen"/>dred at moſt: many were drowned endea<g ref="char:EOLhyphen"/>vouring to get over the River, and two boates ſunke in which is ſaid the Governour to have bin, of ours not above 1 or two killed, in the town we found 51. peices of ſmall ordnance, &amp; 20 aboard the ſhips, good ſtore of powder and ammunition, about forty good veſſells in the Harbour, 3 or 4 whereof, will be fit for State-ſervice, money, plate, and Jewells was much removed out of town, but other plunder there was good ſtore: tallow, hydes, ſalt, and ſuch groſſe commodities are reſerved for the ſtate; but all other things at the ſouldiers devotion. <hi>Ormond</hi> is now joyned with <hi>Inchequin,</hi> both are about <hi>Roſſe,</hi> their number we compute to be about 2000. horſe and 3000 Foot, which is certainly the utmoſt they can make, their main expectation is upon a conjunction with <hi>Owen Roe;</hi> the Garriſon of <hi>Youghall</hi> under the com<g ref="char:EOLhyphen"/>mand of Sir <hi>Peircie Smith</hi> lately declared for the Parliament, but for want of ſeaſonable reliefe it was againe reduced by <hi>Inchequin,</hi> We begin
+<pb n="6" facs="tcp:115170:4"/>
+               <!-- PDF PAGE 9 -->
+our march to morrow to the Garriſon of <hi>Roſſe</hi> 12 miles hence, which we hope to obtein on compoſition; upon <hi>Ormonds</hi> advance towards <hi>Wexford,</hi> colonell Jones was ſent with horſe and dragoones to impede his march; <hi>Ormond</hi> hearing of it retreated, Jones purſued no farther then Eniſorthy, from thence he inclined to <hi>Roſſe,</hi> and early in the morning lodged himſelfe un<g ref="char:EOLhyphen"/>der the enemies works, ſent out a party to enter the town under the notion of friendſhip, who paſt unſuſpected, and had doubtleſſe carried the buſineſſe, but that one amongſt them fell upon the ſentinel, and ſo alarm'd the town.</p>
+            <p>We have lately had ſome loſſe in the North, Colonell <hi>Oconelly</hi> with a party of horſe about 100 marching from <hi>Belfaſt</hi> to <hi>Antrim,</hi> was ſet upon by <hi>George Monroe</hi> with a bigger force, routed our men, Col. <hi>Oconelly</hi> and Capt. <hi>Rooper</hi> with about twenty others ſlaine, about the ſame number taken priſoners, the reſt eſcaped; The report of the country people comming out of the Enemies quarters is, that they intend to give battle to our army within ten dayes, that all their Forces are drawing towards Roſſe, or thoſe parts joyned with <hi>Owen Roe Oneale</hi> for
+<pb n="7" facs="tcp:115170:4"/>
+               <!-- PDF PAGE 9 -->
+that purpoſe, their forces beſides his are reputed 6. or 7000. horſe and foot, <hi>Shirlock</hi> the chiefe of the Tories with 80. horſe is laid betwixt <hi>Cat<g ref="char:EOLhyphen"/>terlaugh</hi> and the <hi>Liffe</hi> to ſtop the running away of their men, who comes daily away from them to us by 30. 40. and ſometime more to<g ref="char:EOLhyphen"/>gether, <hi>Inchequin</hi> dare not truſt the Iriſh, and is diffident of the Engliſh, they declaring their diſlike of his actions every day more and more. <hi>Youghal</hi> did declare for the Parliament &amp; Army, and had a plot to have ſecured <hi>Inchequin,</hi> and have ſent him into ſafe cuſtody to the Ge<g ref="char:EOLhyphen"/>nerall, but being diſcovered was prevented, ſtood upon their guard, three dayes againſt him and his forces, being not relieved was forced to ſubmit upon promiſe of pardon.</p>
+            <p>we hope before this time my Lord is ſo neare them as to give them encouragement to try once more; ſince which Inchiquin hath diſ<g ref="char:EOLhyphen"/>mounted all his Munſter horſe, &amp; hath moun<g ref="char:EOLhyphen"/>ted Papiſts and Iriſh in their roome; it is repor<g ref="char:EOLhyphen"/>ted <hi>Owen Roe</hi> is to have ſix moneths pay for his whole army, to be commander in chiefe of all the Iriſh Natives, to have liberty to burn &amp; de<g ref="char:EOLhyphen"/>ſtroy
+<pb n="8" facs="tcp:115170:5"/>
+               <!-- PDF PAGE 10 -->
+all the engliſh quarters and habitations, to have the cuſtody of one or two of the ſtrongeſt garriſons yet in Ormonds poſſeſsion, which if granted as reported, Ormond and Inchiquin will ſignifie little more then reformadoes in their Army, and the warre in Jreland will end where it did begin betwixt the Engliſh Prote<g ref="char:EOLhyphen"/>ſtant and the Jriſh Papiſt.</p>
+            <closer>
+               <dateline>
+                  <date>October the 20. 1649</date>
+               </dateline>
+               <signed>faithfully thine, R. L.</signed>
+               <dateline>
+                  <date>October. 6 1649</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>JO. RUSHVVORTH.</signed>
+            </closer>
+         </div>
+         <trailer>FJNJS.</trailer>
+      </body>
+   </text>
+</TEI>
